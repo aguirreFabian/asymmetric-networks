@@ -1,4 +1,4 @@
-# Neural networks with fixed asymmetry
+# Neural networks with definite asymmetry
 
 Fabián Aguirre López and Mauro Pastore
 
