@@ -1,2 +1,4 @@
-# MCMC sampling of OPN
+# Code for the OPN
+
+'''opn-soft.py'''
 
